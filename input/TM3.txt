@@ -1,0 +1,23 @@
+s0
+s5 s6
+s0 (aa>) s1
+s0 (bb>) s1
+s0 (^^^) s6
+s1 (aa>) s2
+s1 (bb>) s2
+s1 (^^^) s6
+s2 (aa>) s3
+s2 (bb>) s3
+s2 (^^^) s6
+s3 (aa>) s4
+s3 (bb>) s4
+s3 (^^^) s6
+s4 (aa>) s6
+s4 (bb>) s6
+s4 (^^^) s5
+s5 (aa^) s6
+s5 (bb^) s6
+s5 (^^^) s5
+s6 (aa>) s6
+s6 (bb>) s6
+s6 (^^^) s6

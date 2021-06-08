@@ -1,0 +1,27 @@
+s1
+s6 s7
+s1 (aA>) s2
+s1 (bB^) s7
+s1 (AA^) s7
+s1 (BB^) s7
+s1 (^^^) s7
+s2 (BB>) s2
+s2 (aa>) s2
+s2 (bB<) s3
+s2 (^^^) s7
+s3 (BB<) s3
+s3 (aa<) s4
+s3 (bb^) s7
+s3 (AA>) s5
+s3 (^^^) s7
+s4 (aa<) s4
+s4 (AA>) s1
+s4 (bB^) s7
+s4 (BB^) s7
+s4 (^^^) s7
+s5 (BB>) s5
+s5 (^^>) s6
+s5 (aA^) s7
+s5 (AA^) s7
+s5 (^^^) s7
+s7 (^^^) s7 
